@@ -6,7 +6,7 @@ This is the repository for the How did it die? Task Group.
 
 How did it die? is a Task Group under the [Observations and Specimen Records (OSR) Interest Group](https://www.tdwg.org/community/osr/) convened to propose the addition of terms, and associated controlled vocabularies, to Darwin Core to enable the interoperability of datasets that hold information on the vitality of the organism and any cause of death.
 
-The day-to-day operations of the Interest Group is documented in this repository. 
+The day-to-day operations of the Interest Group are documented in this repository. 
 
 ## Members ##
 
@@ -26,7 +26,10 @@ The day-to-day operations of the Interest Group is documented in this repository
 | Libby Ellwood  | Natural History Museum of Los Angeles, United States  |
 
 
+## [Task Group Charter](https://www.tdwg.org/community/osr/how-did-it-die/) ##
 
- * Task Group Charter:  https://www.tdwg.org/community/osr/how-did-it-die/
+A description of our rationale and goals, motivation, tasks, and strategy. This document outlines the goals and objectives of the task group and plan for reaching these goals.
+
+
 
 
