@@ -26,7 +26,7 @@ The day-to-day operations of the Task Group are documented in this repository an
 |   |   |
 
 ## How did it die? TG Quick Links ##
-Her are some quick links into the repository to help understand how to contribute to the Task Group and where to find materials related to the development of the terms required to describe the vitality and cause of death of organisms.
+Here are some quick links into the repository to help understand how to contribute to the Task Group and where to find materials related to the development of the terms required to describe the vitality and cause of death of organisms.
 
 ## [Task Group Charter](https://www.tdwg.org/community/osr/how-did-it-die/) ##
 
