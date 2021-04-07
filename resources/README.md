@@ -13,4 +13,4 @@
 - Arialdi Miniño. Coding and classification of causes of death in accordance with the Tenth Revision of the International Classification of Diseases. https://www.cdc.gov/nchs/ppt/nchs2012/li-14_minino.pdf 
 - SALAFSKY, N., SALZER, D., STATTERSFIELD, A.J., HILTON‐TAYLOR, C., NEUGARTEN, R., BUTCHART, S.H.M., COLLEN, B., COX, N., MASTER, L.L., O'CONNOR, S. and WILKIE, D. (2008), A Standard Lexicon for Biodiversity Conservation: Unified Classifications of Threats and Actions. Conservation Biology, 22: 897-911. https://doi.org/10.1111/j.1523-1739.2008.00937.x
 
-- The initial request for a new term: https://github.com/tdwg/dwc/issues/228and <https://github.com/tdwg/dwc-qa/issues/142
+- The initial request for a new term: https://github.com/tdwg/dwc/issues/228 and https://github.com/tdwg/dwc-qa/issues/142
