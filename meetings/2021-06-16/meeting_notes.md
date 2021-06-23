@@ -14,7 +14,7 @@ Agreement that we should propose a controlled vocabulary for causesOfDeath.
 Agreement to change this term to free text rather than require a controlled vocabulary
 
 * `deathDate`
-How do we record unknown? Is unknown permitted in a date term?
+How do we record unknown? Is unknown permitted in a date term? Agreed that time since death to indicate decay rate is out of scope
 
 ### Actions ###
 1. raise a new issue to propose that vitality is added to the core, using the form here: https://github.com/tdwg/dwc/issues/
