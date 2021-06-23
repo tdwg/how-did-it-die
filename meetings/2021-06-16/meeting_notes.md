@@ -1,21 +1,19 @@
-## Outcomes ##
-
 Agreement that we would propose the addition of a single term 'vitality' to DwC core and an extension for the additional terms.
 
-### Vitality ### 
+'vitality'
 Vitality requires an additional term other than 'unknown', for example 'presumed dead' or 'unable to determine'. 
 
 Should there be an option for 'dormant' or could 'unable to determine' cover it?
 
 We need definitions for the terms dead and alive. Should we use an existing definition: http://www.ontobee.org/search?ontology=&submit=Search+terms&keywords=alive
 
-### causesOfDeath ### 
+'causesOfDeath'
 Agreement that we should propose a controlled vocabulary for causesOfDeath
 
-### UnderlyingCausesOfDeath ### 
+'underlyingCausesOfDeath'
 Agreement to change this term to free text rather than require a controlled vocabulary
 
-### deathDate ### 
+'deathDate'
 
 How do we record unknown? Is unknown permitted in a date term?
 
