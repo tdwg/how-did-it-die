@@ -14,11 +14,12 @@ Agreement that we should propose a controlled vocabulary for causesOfDeath.
 Agreement to change this term to free text rather than require a controlled vocabulary
 
 * `deathDate`
-How do we record unknown? Is unknown permitted in a date term? Agreed that time since death to indicate decay rate is out of scope
+How do we record unknown? Is unknown permitted in a date term? Would a free text field `deathDateNotes` help? Agreed that time since death to indicate decay rate is out of scope
 
 ### Actions ###
 1. raise a new issue to propose that `vitality` is added to the core, using the form here: https://github.com/tdwg/dwc/issues/
 
 2. write a short paper for the BIS journal describing the use cases and justifications for an extension for remaining terms
 3. the team should continue to add use cases and vocabulary for `causesOfDeath`
-4. follow up meeting in a months time (July 2021)
+4. recommend addition of `preservationDate` for `MaterialSamples`
+5. follow up meeting in a months time (July 2021)
