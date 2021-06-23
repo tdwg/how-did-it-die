@@ -20,10 +20,10 @@ Proposed attributes of the new term:
 [Details here: https://github.com/tdwg/how-did-it-die/issues/1]
 
 * Term name (in lowerCamelCase for properties, UpperCamelCase for classes): 
-  vitality
+  `vitality`
   
 * Organized in Class (e.g., Occurrence, Event, Location, Taxon): 
-  Occurrence
+  `Occurrence`
   
 * Definition of the term (normative): 
   An indication of whether the organism was alive or dead at the time of collection or observation
