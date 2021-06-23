@@ -1,6 +1,6 @@
-# Proposal for vitality as a new term, using the required template
+## Proposal for vitality as a new term, using the required template ##
 
-## Submitter: ##
+* Submitter: *
 * Sophia Ratcliffe
 
 ##  Efficacy Justification (why is this term necessary?): ## 
