@@ -1,6 +1,7 @@
-## New term
+# Proposal for vitality as a new term, using the required template
 
 * Submitter: Sophia Ratcliffe
+* 
 * Efficacy Justification (why is this term necessary?): 
 There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection, and what the cause of any death was. Currently no such explicit terms exist in Darwin Core.
 
