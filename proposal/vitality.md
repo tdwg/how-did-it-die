@@ -1,18 +1,18 @@
 ## Proposal for vitality as a new term, using the required template ##
 
-_Submitter:_
+* _Submitter:_
 Sophia Ratcliffe
 
-_Efficacy Justification (why is this term necessary?)_
+* _Efficacy Justification (why is this term necessary?)_
 There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection, and what the cause of any death was. Currently no such explicit terms exist in Darwin Core.
 
-_Demand Justification (name at least two organizations that independently need this term)_
+* _Demand Justification (name at least two organizations that independently need this term)_
   NBN Trust
   
-_Stability Justification (what concerns are there that this might affect existing implementations?)_
+* _Stability Justification (what concerns are there that this might affect existing implementations?)_
   None
   
-_Implications for dwciri: namespace (does this change affect a dwciri term version)?_
+* _Implications for dwciri: namespace (does this change affect a dwciri term version)?_
 
 Proposed attributes of the new term:
 
