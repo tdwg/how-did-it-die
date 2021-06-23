@@ -4,7 +4,7 @@
 Sophia Ratcliffe
 
 * Efficacy Justification (why is this term necessary?):
-There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection, and what the cause of any death was. Currently no such explicit terms exist in Darwin Core.
+There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection. Currently no such explicit term exist in Darwin Core.
 
 * Demand Justification (name at least two organizations that independently need this term):
   NBN Trust
@@ -32,7 +32,7 @@ Proposed attributes of the new term:
   Generally intended to be used with a dwc:basisOfRecord of PreservedSpecimen, MaterialSample, or HumanObservation.
 
 * Examples (not normative): 
-  alive, dead, presumed dead or unable to determine
+  alive, dead, presumed dead or unable to determine. [Definitions can be found here: https://github.com/tdwg/how-did-it-die/issues/6]
 
 * Refines (identifier of the broader term this term refines; normative): 
   None
