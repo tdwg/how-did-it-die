@@ -8,7 +8,7 @@ requires an additional term other than `unknown`, for example `presumed dead` or
 * We need definitions for the terms dead and alive. Should we use an existing definition: http://www.ontobee.org/search?ontology=&submit=Search+terms&keywords=alive
 
 * `causesOfDeath`
-Agreement that we should propose a controlled vocabulary for causesOfDeath
+Agreement that we should propose a controlled vocabulary for causesOfDeath.
 
 * `underlyingCausesOfDeath`
 Agreement to change this term to free text rather than require a controlled vocabulary
@@ -20,3 +20,5 @@ How do we record unknown? Is unknown permitted in a date term?
 1. raise a new issue to propose that vitality is added to the core, using the form here: https://github.com/tdwg/dwc/issues/
 
 2. write a short paper for the BIS journal describing the use cases and justifications for an extension for remaining terms
+3. the team should continue to add use cases and vocabulary for `causesOfDeath`
+4. follow up meeting in a months time (July 2021)
