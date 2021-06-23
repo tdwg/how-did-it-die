@@ -14,6 +14,8 @@ There is a requirement that species records express whether the organism was dea
 
 Proposed attributes of the new term:
 
+Details here: https://github.com/tdwg/how-did-it-die/issues/1
+
 * Term name (in lowerCamelCase for properties, UpperCamelCase for classes): 
   vitality
   
