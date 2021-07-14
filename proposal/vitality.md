@@ -8,6 +8,7 @@ There is a requirement that species records express whether the organism was dea
 
 * Demand Justification (name at least two organizations that independently need this term):
   NBN Trust
+  [we need two more organisations]
   
 * Stability Justification (what concerns are there that this might affect existing implementations?):
   None
@@ -29,7 +30,7 @@ Proposed attributes of the new term:
   An indication of whether the organism was alive or dead at the time of collection or observation
 
 * Usage comments (recommendations regarding content, etc., not normative): 
-  Generally intended to be used with a dwc:basisOfRecord of PreservedSpecimen, MaterialSample, or HumanObservation.
+  Generally intended to be used with a `dwc:basisOfRecord` of `PreservedSpecimen`, `MaterialSample`, or `HumanObservation`.
 
 * Examples (not normative): 
   alive, dead, unable to determine. [Definitions can be found here: https://github.com/tdwg/how-did-it-die/issues/6]
