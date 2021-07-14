@@ -32,7 +32,7 @@ Proposed attributes of the new term:
   Generally intended to be used with a dwc:basisOfRecord of PreservedSpecimen, MaterialSample, or HumanObservation.
 
 * Examples (not normative): 
-  alive, dead, presumed dead or unable to determine. [Definitions can be found here: https://github.com/tdwg/how-did-it-die/issues/6]
+  alive, dead, unable to determine. [Definitions can be found here: https://github.com/tdwg/how-did-it-die/issues/6]
 
 * Refines (identifier of the broader term this term refines; normative): 
   None
