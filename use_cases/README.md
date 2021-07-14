@@ -8,8 +8,7 @@ Examples of datasets that use the term *vitality* from the NBN Atlas (UK):
 - Wild boar SASA sightings record: https://registry.nbnatlas.org/public/show/dr538
 
 
+OBIS:
 
-CenCOOS has a dataset of volunteer based surveys of marine mammal and seabird carcasses that wash-up on beaches. https://mlml.sjsu.edu/beachcombers/
-
-All records in this dataset would use:
-vitality property with the vocabulary term "dead"
+- CenCOOS has a dataset of volunteer based surveys of marine mammal and seabird carcasses that wash-up on beaches. https://mlml.sjsu.edu/beachcombers/. All records in this dataset would use:
+`vitality` property with the vocabulary term `dead`.
