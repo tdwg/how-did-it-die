@@ -20,7 +20,7 @@
 
 - Agreed on `deathDateNotes` which could be used when the date of death is not known
 
-- continue to develop the `causeofDeath` vocabulary. Agreed to classify the terms at a higher level, the consensus was that it would be more beneficial to have a coarser vocabulary than more specific terms. Suggestions for the higher level classification:
+- continue to develop the `causeofDeath` vocabulary. Agreed to classify the terms at a higher level, the consensus was that it would be more beneficial to have a coarser vocabulary than more specific terms. By classifying the terms we should be able to see if any of the more specific terms should be included in the vocabulary, e.g. disease. Suggestions for the higher level classification:
 
   - Natural - environmental
   - Natural - biotic
