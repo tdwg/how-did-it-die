@@ -18,18 +18,18 @@
 
 - Recommend using the [Geological context](https://dwc.tdwg.org/terms/#geologicalcontext) Darwin Core terms for date of death in the case of prehistoric records
 
-- Agreed `deathDateNotes` which could be used when the date of death is not known
+- Agreed on `deathDateNotes` which could be used when the date of death is not known
 
 - continue to develop the `causeofDeath` vocabulary. Agreed to classify the terms at a higher level, the consenus was that it would be more beneficial to have a coarser vocabulary than too details. Suggestions for the higher level classification:
 
---Natural - environmental
---Natural - biotic
---Anthropogenic
---Unknown
+  - Natural - environmental
+  - Natural - biotic
+  - Anthropogenic
+  - Unknown
 
 
 
 ### Actions ###
 
 - submit the proposal for the addition of vitality to core Darwin Core, using the form: https://github.com/tdwg/dwc/issues/
-- continue to add terms to the `causeofDeath` vocabulary and classification
+- continue to add terms to the `causeofDeath` vocabulary and classification, here: https://docs.google.com/document/d/1Qf-RdsHtUaEb2g1ESBpa4g7vYCwxiovSkj6sUAF0CiM/edit
