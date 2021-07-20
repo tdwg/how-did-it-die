@@ -6,8 +6,8 @@
 | ------------- | ------------- |
 | dead  | The state where the organism has irreversible loss of functional metabolism  |
 | alive  | The state where the organism has functional metabolism  |
-| dead  | The functional metabolism of the organism is not possible to determine  |
-| alive  | The vitality of the organism was not recorded at the time the observation or collection was made  |
+| unable to determine  | The functional metabolism of the organism is not possible to determine  |
+| not recorded  | The vitality of the organism was not recorded at the time the observation or collection was made  |
 
 - Add OBIS and The Field Museum (for the [Digitization TCN: Collaborative Research: Mobilizing Millions of Marine Mollusks of the Eastern Seaboard](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2001536&HistoricalAwards=false)) as supporting organisations and contact iNaturalist to see whether we could include them.
 
