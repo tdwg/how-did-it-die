@@ -7,9 +7,9 @@ Sophia Ratcliffe
 There is a requirement that species records express whether the organism was dead or alive at the time of the observation or collection. Currently no such explicit term exist in Darwin Core.
 
 * Demand Justification (name at least two organizations that independently need this term):
-  NBN Trust
-  Ocean Biodiversity Information System (OBIS)
-  The Field Museum
+  - NBN Trust
+  - Ocean Biodiversity Information System (OBIS)
+  - The Field Museum
   
 * Stability Justification (what concerns are there that this might affect existing implementations?):
   None
