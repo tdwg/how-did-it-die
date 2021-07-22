@@ -10,6 +10,7 @@ There is a requirement that species records express whether the organism was dea
   - NBN Trust
   - Ocean Biodiversity Information System (OBIS)
   - The Field Museum
+  - Global Genome Biodiversity Network  (GGBN)
   
 * Stability Justification (what concerns are there that this might affect existing implementations?):
   None
