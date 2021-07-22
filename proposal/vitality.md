@@ -8,7 +8,8 @@ There is a requirement that species records express whether the organism was dea
 
 * Demand Justification (name at least two organizations that independently need this term):
   NBN Trust
-  [we need two more organisations]
+  Ocean Biodiversity Information System (OBIS)
+  The Field Museum
   
 * Stability Justification (what concerns are there that this might affect existing implementations?):
   None
