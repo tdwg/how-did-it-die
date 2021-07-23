@@ -1,7 +1,6 @@
 ## Outline of the causeOfDeath_extension ##
 
-The extension has five properties and we recommend using two existing properties, where needed. Expected to be used with the core property `vitality`.
-
+Expected to be used with the core property `vitality`.
 
 ### causeOfDeath ###
 
@@ -36,8 +35,9 @@ The extension has five properties and we recommend using two existing properties
 | Constraints 	|  ISO 8601 date format, resolved to day, month or year | 
 | Notes |  Date ranges are allowed. |
 
- - If the date of death is unknown, suggest using the `deathDateNotes` property.
- - Use the Geological context Darwin Core terms for date of death in the case of prehistoric records
+ - use the `deathDateNotes` property when date is unknown
+ - use the Geological context Darwin Core terms for date of death in the case of prehistoric records
+ - use `preservationDate` for `MaterialSamples`
 
 ### deathDateNotes ### 
 
@@ -47,6 +47,3 @@ The extension has five properties and we recommend using two existing properties
 | Format 	| Text | 
 | Constraints 	|  None | 
 
-
-Recommend:
-  - addition of `preservationDate` for `MaterialSamples`
