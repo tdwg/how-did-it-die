@@ -8,7 +8,7 @@ Expected to be used with the core property `vitality`.
 | --- | --- |
 | Definition | The primary or immediate disease or condition resulting in the death of the organism  | 
 | Format 	| Text | 
-| Constraints 	|  None | 
+| Constraints 	|  Controlled vocabulary | 
 
 ### underlyingCausesOfDeath ### 
 
