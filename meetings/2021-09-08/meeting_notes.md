@@ -14,5 +14,5 @@ The TG will have a working group session at the TWDG conference in November and 
 
 ## Actions ##
 1. Please ask colleages to comment on the proposal for vitality, to raise awareness and agreement for it.
-2. Suggest other use cases to test the causes of death vocabulary
+2. Suggest other use cases to test the causes of death vocabulary, we could go through them in the working session in November 2021.
 
