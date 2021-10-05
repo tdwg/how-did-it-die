@@ -11,9 +11,11 @@ b. FMNH Amphibians and Reptiles Collection Database
 
 The vocabulary terms and proposed definitions are here for comment and changes: https://docs.google.com/spreadsheets/d/1sa56LxDyaxJwKRqw7cimoLb9RWCWYEQHjDkZ-WfHnxo/edit?usp=sharing
 
-3. The TG will have a working group session at the TWDG conference in November and also a slot in the IG session. A slide has been added of the TG highlights for the TDWG2021 Business Meeting.
+3. The TG will have a working group session at the TWDG conference in November and also a slot in the IG session. 
 
-4. The article to propose the cause of death extension has been started: https://docs.google.com/document/d/1E7fq2oMvBICwNjAv-jShL8mpG7a_9tJGLg-C024KoQI/edit?usp=sharing
+4. A summary slide on the TG activies has been added to the TDWG2021 Business Meeting.
+
+5. The article to propose the cause of death extension has been started: https://docs.google.com/document/d/1E7fq2oMvBICwNjAv-jShL8mpG7a_9tJGLg-C024KoQI/edit?usp=sharing
 
 
 ## Actions ##
