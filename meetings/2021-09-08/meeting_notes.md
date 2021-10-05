@@ -9,7 +9,7 @@ From Lee A. Walker of the UK's Centre of Ecology and Hydrology.
 
 b. FMNH Amphibians and Reptiles Collection Database
 
-The vocabulary terms and proposed definitions are here for comment and changes: https://docs.google.com/spreadsheets/d/1sa56LxDyaxJwKRqw7cimoLb9RWCWYEQHjDkZ-WfHnxo/edit?usp=sharing
+The vocabulary terms and proposed definitions have been copied into a spreadsheet for comment and changes: https://docs.google.com/spreadsheets/d/1sa56LxDyaxJwKRqw7cimoLb9RWCWYEQHjDkZ-WfHnxo/edit?usp=sharing
 
 3. The TG will have a working group session at the TWDG conference in November and also a slot in the IG session. 
 
