@@ -21,5 +21,6 @@ The vocabulary terms and proposed definitions have been copied into a spreadshee
 ## Actions ##
 1. Ask colleagues to comment on the proposal for vitality, to raise awareness and agreement for it.
 2. Suggest other use cases to test the causes of death vocabulary, we could go through them in the working session in November 2021.
-3. Continue to add content to the cause of death extension document: https://docs.google.com/document/d/1E7fq2oMvBICwNjAv-jShL8mpG7a_9tJGLg-C024KoQI/edit?usp=sharing
+3. Review the cause of death definitions: https://docs.google.com/spreadsheets/d/1sa56LxDyaxJwKRqw7cimoLb9RWCWYEQHjDkZ-WfHnxo/edit?usp=sharing
+4. Continue to add content to the cause of death extension document: https://docs.google.com/document/d/1E7fq2oMvBICwNjAv-jShL8mpG7a_9tJGLg-C024KoQI/edit?usp=sharing
 
