@@ -8,7 +8,7 @@ Expected to be used with the core property `vitality`.
 | --- | --- |
 | Definition | The primary or immediate disease or condition resulting in the death of the organism  | 
 | Format 	| Text | 
-| Constraints 	|  Controlled vocabulary, see https://docs.google.com/document/d/1Qf-RdsHtUaEb2g1ESBpa4g7vYCwxiovSkj6sUAF0CiM/edit | 
+| Constraints 	|  Controlled vocabulary, see https://docs.google.com/spreadsheets/d/14FWRqdUVZUcG-Uln8-PQ8VRkAnP5Vcka65gN-YWldBc/edit?usp=sharing and  https://docs.google.com/document/d/1Qf-RdsHtUaEb2g1ESBpa4g7vYCwxiovSkj6sUAF0CiM/edit | 
 | Notes 	| Expected to be used with the `causeOfDeathClass` term | 
 
 ### causeOfDeathClass ###
@@ -17,7 +17,7 @@ Expected to be used with the core property `vitality`.
 | --- | --- |
 | Definition | The classification of primary or immediate disease or condition resulting in the death of the organism  | 
 | Format 	| Text | 
-| Constraints 	|  Controlled vocabulary: Natural - abiotic, Natural - biotic, Anthropogenic or Unknown. See https://docs.google.com/document/d/1Qf-RdsHtUaEb2g1ESBpa4g7vYCwxiovSkj6sUAF0CiM/edit | 
+| Constraints 	|  Controlled vocabulary: Natural - abiotic, Natural - biotic, Anthropogenic or Unknown. See https://docs.google.com/spreadsheets/d/14FWRqdUVZUcG-Uln8-PQ8VRkAnP5Vcka65gN-YWldBc/edit?usp=sharing and  https://docs.google.com/document/d/1Qf-RdsHtUaEb2g1ESBpa4g7vYCwxiovSkj6sUAF0CiM/edit | 
 
 ### underlyingCausesOfDeath ### 
 
